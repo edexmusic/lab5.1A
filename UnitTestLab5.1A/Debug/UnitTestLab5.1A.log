@@ -1,0 +1,5 @@
+﻿  UnitTestLab5.1A.cpp
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab5.1A\lab5.1A\intRange.h(25,85): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab5.1A\lab5.1A\intRange.cpp(8,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab5.1A\lab5.1A\intRange.cpp(42,82): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UnitTestLab5.1A.vcxproj -> C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab5.1A\Debug\UnitTestLab5.1A.dll
